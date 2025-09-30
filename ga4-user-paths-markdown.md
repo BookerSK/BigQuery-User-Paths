@@ -653,14 +653,6 @@ And you will answer a logic question: "Cool! What am I going to do with 188 uniq
 
 Here's the time for Logistic Regression I'm going to tell about next time.
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## Author
-
-Created as a guide for GA4 analysis with MySQL, Python, and BigQuery.
